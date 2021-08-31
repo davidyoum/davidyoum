@@ -1,5 +1,5 @@
 # Intro
-Hello my name is David Youm. I'm currently a junior in high school working on code and other misc. projects.
+Hello my name is David Youm. I'm currently a senior in high school working on code and other misc. projects.
 ---	
 I run a coding/tech YouTube channel. Check it out!
 
