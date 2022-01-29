@@ -5,7 +5,7 @@
 
 Hello, my name is David Youm. I'm a senior in High School currently trying to pursue a career in Computer Science and Software Development. Check out my social medias down below!
 
-[YouTube](https://www.youtube.com/channel/UClvI4-BIm0Ka909lJ4npaUA)
+[YouTube](https://www.youtube.com/c/DavidYoum)
 
 [LinkedIn](https://www.linkedin.com/in/davidyoum/)
 
