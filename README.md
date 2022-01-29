@@ -23,3 +23,5 @@ Languages I'm Currently Learning:
 I'm always learning new languages and libraries every single day.
 
 What I use to code is VSCode and Sublime Text. The reason I use both is just how simple the design is. I like things simple and I like to keep things simple. You might say im a minimalist.
+
+
