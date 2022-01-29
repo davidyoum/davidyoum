@@ -3,7 +3,8 @@ Hello my name is David Youm. I'm currently a senior in high school working on co
 ---	
 I run a coding/tech YouTube channel. Check it out!
 
-[YouTube](https://www.youtube.com/channel/UClvI4-BIm0Ka909lJ4npaUA) /n
+[YouTube](https://www.youtube.com/channel/UClvI4-BIm0Ka909lJ4npaUA)
+---
 [LinkedIn](https://www.linkedin.com/in/davidyoum/)
 
 ---	
