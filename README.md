@@ -1,4 +1,4 @@
-<img src="https://imgur.com/tkV91rV"/>
+<img src="https://i.imgur.com/tkV91rV.png"/>
 
 
 ## Hello, Welcome to my GitHub! 👋
