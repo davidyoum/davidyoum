@@ -3,7 +3,7 @@
 
 ## Hello, Welcome to my GitHub! 👋
 
-Hello, my name is David Youm. I'm a senior in High School currently trying to pursue a career in Computer Science and Software Development. Check out my social medias down below!
+Hello, my name is David Youm. I'm a freshmen at Penn State University currently trying to pursue a career in Computer Science and Software Development. Check out my social medias down below!
 
 [YouTube](https://www.youtube.com/c/DavidYoum)
 
@@ -11,7 +11,7 @@ Hello, my name is David Youm. I'm a senior in High School currently trying to pu
 
 ## Coding Things/About Me
 
-I'm 17 and just recently fell in love with programming. I started taking Computer Programming classes in junior year and kept expanding my knowledge on Computer Science and Programming. I love teaching people things that I learn so thats why I love teaching in my classes and also on YouTube.
+I'm 18 and just recently fell in love with programming. I started taking Computer Programming classes in junior year and kept expanding my knowledge on Computer Science and Programming. I love teaching people things that I learn so thats why I love teaching in my classes and also on YouTube.
 
 Languages I'm Currently Learning:
 
