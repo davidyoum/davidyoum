@@ -3,7 +3,7 @@
 
 ## Hello, Welcome to my GitHub! 👋
 
-Hello, my name is David Youm. I'm a freshmen at Penn State University currently trying to pursue a career in Computer Science and Software Development. Check out my social medias down below!
+Hello, my name is David Youm. I'm a sophomore at Penn State University currently trying to pursue a career in Computer Science and Software Development. Check out my social medias down below!
 
 [YouTube](https://www.youtube.com/c/DavidYoum)
 
