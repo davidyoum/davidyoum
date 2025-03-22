@@ -1,0 +1,5 @@
+print("Welcome to my GitHub Profile!")
+print("Student at Penn State")
+print("Computer Science Major")
+print("Mathematics Minor")
+print("Feel free to explore my projects!") 
